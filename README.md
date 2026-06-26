@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,3b82f6,14b8a6&height=200&section=header&text=Hi%20There%21%20I%27m%20Sanmati%20%F0%9F%91%8B&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%C2%B7%20Chandigarh%20University%20%C2%B7%20Batch%202027&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,3b82f6,14b8a6&height=200&section=header&text=Hi%20There%21%20I%27m%20Sanmati%20%F0%9F%91%8B&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%C2%B7%20Chandigarh%20University%20%C2%B7%20Batch%202027&fontColor=ffffff&animation=fadeIn&v=2" alt="Header Banner" />
 
 ---
 
@@ -19,17 +19,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Sanmatijain22&show_icons=true&count_private=true&icon_color=7c3aed&title_color=7c3aed&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmatijain22&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/details?username=Sanmatijain22&theme=tokyonight" alt="Profile Details" />
-
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=Sanmatijain22&color=7c3aed" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Sanmatijain22?color=7c3aed&style=flat-square" alt="Followers" />
 
 ---
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sanmatijain22&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<!-- GitHub Trophies (self-hosted via GitHub Actions — see profile-assets.yml) -->
+<picture>
+  <img alt="GitHub Trophies" src="https://raw.githubusercontent.com/Sanmatijain22/Sanmatijain22/output/trophy.svg" />
+</picture>
 
 ---
 
