@@ -25,9 +25,9 @@
 
 ---
 
-<!-- GitHub Trophies (self-hosted via GitHub Actions — see profile-assets.yml) -->
+<!-- GitHub Stats (self-hosted via GitHub Actions — see profile-assets.yml) -->
 <picture>
-  <img alt="GitHub Trophies" src="https://raw.githubusercontent.com/Sanmatijain22/Sanmatijain22/output/trophy.svg" />
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/Sanmatijain22/Sanmatijain22/main/images/userstats.svg" />
 </picture>
 
 ---
