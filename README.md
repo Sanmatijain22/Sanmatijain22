@@ -1,10 +1,10 @@
 <div align="center">
 
 <picture>
-  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanmati&fontSize=42&fontColor=fff&animation=twinkling" />
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanmati Jain&fontSize=42&fontColor=fff&animation=twinkling" />
 </picture>
 
-### 👋 Hi there, I'm Sanmati!
+### 👋 Hi there, I'm Sanmati Jain!
 ### 💻 Developer | 🚀 Open Source Enthusiast | 📚 Lifelong Learner
 
 </div>
